@@ -1,5 +1,7 @@
 # Earthquake Zen Garden
 
+Deployed site can be found [here](https://earthquake-zen-garden-15266.web.app/home)
+
 ## Required Software
 
 - [node](https://github.com/nvm-sh/nvm#installing-and-updating)
