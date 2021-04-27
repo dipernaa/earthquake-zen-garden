@@ -1,12 +1,14 @@
 # Earthquake Zen Garden
 
-Deployed site can be found [here](https://earthquake-zen-garden-15266.web.app/home)
+Deployed site can be found [here](https://earthquake-zen-garden-15266.web.app)
 
 ## What I Would Improve
 
 - Proper Loader with backdrop instead of text "Loading..."
 - Notification provider to handle api/data errors
   - ex: naviagate to earthquake detail page that doesn't exist
+- Null safety to avoid missing data errors
+  - Time was spent in other areas since I knew all of the data existed on every earthquake
 
 ## Required Software
 
