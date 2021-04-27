@@ -1,0 +1,11 @@
+.container {
+    .dataTable {
+        display: grid;
+        grid-template-columns: max-content auto;
+        column-gap: 2.4rem;
+
+        .header {
+            color: $tundora;
+        }
+    }
+}

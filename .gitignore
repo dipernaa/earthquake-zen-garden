@@ -1,0 +1,22 @@
+# Logs
+logs
+*.log
+.DS_Store
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Coverage directory used by tools like istanbul
+coverage
+
+# IDE
+.idea
+.vscode
+
+# Dependency directory
+node_modules
+
+# Ignore build files
+dist

@@ -1,0 +1,25 @@
+.container {
+    display: grid;
+    grid-auto-flow: row;
+    row-gap: 2rem;
+    text-align: center;
+
+    .title {
+        font-size: 2.4rem;
+    }
+
+    table {
+        th {
+            color: $tundora;
+            font-weight: normal;
+
+            &:hover {
+                cursor: pointer;
+            }
+        }
+
+        .nameCell {
+            text-align: start;
+        }
+    }
+}

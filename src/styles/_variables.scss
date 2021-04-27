@@ -1,0 +1,26 @@
+@import '~include-media/dist/include-media';
+
+$breakpoints: (small: 20rem, medium: 48rem, large: 64rem);
+
+$app-bar-height: 9rem;
+
+// https://chir.ag/projects/name-that-color/
+$black: #000;
+$boulder: #777;
+$dark-blue: #01b;
+$gallery: #ededed;
+$purple: #60c;
+$tundora: #444;
+$white: #fff;
+
+/* stylelint-disable */
+:export {
+    black: $black;
+    boulder: $boulder;
+    darkBlue: $dark-blue;
+    gallery: $gallery;
+    purple: $purple;
+    tundora: $tundora;
+    white: $white;
+}
+/* stylelint-enable */
